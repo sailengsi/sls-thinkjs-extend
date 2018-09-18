@@ -4,6 +4,6 @@ module.exports = {
     controller: {
         returnSuccess
     },
-    contxt: {},
+    context: {},
     think: {}
 };
