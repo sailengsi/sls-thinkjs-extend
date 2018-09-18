@@ -1,3 +1,9 @@
+const returnSuccess = require('./controller/returnSuccess');
+
 module.exports = {
-    controller: require('./controller/')
+    controller: {
+        returnSuccess
+    },
+    contxt: {},
+    think: {}
 };
